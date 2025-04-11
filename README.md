@@ -72,7 +72,7 @@ Select magic instantly with dedicated buttons:
 
 ## 📺 Demo Video
 
-🎬 [Watch it in action on YouTube](#) *([Link to your demo video here](https://youtu.be/Vgs0xl58m5o))*
+🎬 [Watch it in action on YouTube](https://youtu.be/Vgs0xl58m5o)
 
 ---
 
