@@ -88,6 +88,7 @@ Select magic instantly with dedicated buttons:
 
 ## 🧠 Notes
 
+- v2.41 fix exploit left from legacy code that allowed magic swap when dead, now disabled due to new mechanic of individual magic charge counters 
 - This hack supports both **JP** and **EN** region boots.  
 - Patch provided in **IPS format** – use tools like **Lunar IPS** or **Floating IPS** to apply.  
 - All changes are fully compatible with emulators and flashcarts that support the original game.
