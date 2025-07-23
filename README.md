@@ -1,8 +1,3 @@
-# Mystic Defender / Kujaku Ou - Localization & Gameplay Hack
-
-This is a ROM hack of **Mystic Defender** (*Kujaku Ou*) for the Sega Mega Drive / Genesis.  
-It reworks the **Western localization**, restores unused content, and introduces **significant gameplay improvements**, including 6-button support and a more faithful adaptation of the anime source material.
-
 Please consider supporting:
 
 <a href="https://www.buymeacoffee.com/nani16bit" target="_blank">
@@ -12,6 +7,11 @@ or
 <a href="https://github.com/sponsors/irmaosver-e">
 <img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="215" />
 </a>
+
+# Mystic Defender / Kujaku Ou - Localization & Gameplay Hack
+
+This is a ROM hack of **Mystic Defender** (*Kujaku Ou*) for the Sega Mega Drive / Genesis.  
+It reworks the **Western localization**, restores unused content, and introduces **significant gameplay improvements**, including 6-button support and a more faithful adaptation of the anime source material.
 
 ---
 
